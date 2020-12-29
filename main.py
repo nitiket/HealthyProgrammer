@@ -1,7 +1,6 @@
 from pygame import mixer
 from datetime import datetime
 from time import time
-c = 0
 
 def music(file):
     mixer.init()  # Starting the mixer

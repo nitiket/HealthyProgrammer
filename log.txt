@@ -1,5 +1,4 @@
-
- Water level covered at [ 2020-12-29 23:37:12.639111 ]
- Water level covered at [ 2020-12-29 23:38:17.426889 ]
- Eyes Blinked at [ 2020-12-29 23:39:18.846282 ]
- Water level covered at [ 2020-12-29 23:39:21.881603 ]
+ Exercise done at [ 2020-12-29 23:53:45.060119 ]
+ Exercise done at [ 2020-12-29 23:54:52.415195 ]
+ Eyes Blinked at [ 2020-12-29 23:55:46.832944 ]
+ Exercise done at [ 2020-12-29 23:55:58.119230 ]
